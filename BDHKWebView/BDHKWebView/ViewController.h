@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  HKWebView
+//  BDHKWebView
 //
-//  Created by zhushaobo on 2016/9/22.
+//  Created by zhushaobo on 2016/9/29.
 //  Copyright © 2016年 Shaobo. All rights reserved.
 //
 
